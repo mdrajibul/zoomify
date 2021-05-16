@@ -79,4 +79,4 @@ Below are the contructor params
 
 ## Demo
 
-!['Zoomify image'](./zoomify.gif)
+!['Zoomify image'](https://raw.githubusercontent.com/mdrajibul/zoomify/master/zoomify.gif)
