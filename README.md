@@ -6,8 +6,9 @@ A [JS](https://github.com/mdrajibul/zoomify) library to zoomify background image
 ## Installation
 
 ```bash
-# using npm
-npm install @mdrajibul/zoomify
+
+npm install --save @mdrajibul/zoomify
+
 ```
 
 ## Usage
