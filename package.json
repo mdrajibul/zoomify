@@ -18,7 +18,7 @@
         "lint": "tslint --project tsconfig.json",
         "lint:fix": "tslint --project tsconfig.json --fix"
     },
-    "author": "MD RAJIB UL ISLAM<rajibul.w2l@gmail.com>",
+    "author": "MD RAJIB UL ISLAM<mdrajibul@gmail.com>",
     "license": "ISC",
     "files": [
         "dist",
