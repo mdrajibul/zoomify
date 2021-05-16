@@ -26,7 +26,7 @@ import { Zoomify } from '@mdrajibul/zoomify'
 
 Zoomify.run(document.getElementById('bgImage'));
 
-or 
+ //OR
 
 const zoomify = new Zoomify(document.getElementById('bgImage'));
 zoomify.start();
